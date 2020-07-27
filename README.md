@@ -20,4 +20,9 @@ About me:
 - 📫 How to reach me: Email, Facebook
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manjurulhoque&show_icons=true" alt="manjurulhoque" /> </h1>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manjurulhoque&show_icons=true&theme=radical" alt="manjurulhoque"/>
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjurulhoque&layout=compact&theme=radical" alt="manjurulhoque"/>
+</a>
