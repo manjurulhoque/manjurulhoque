@@ -15,7 +15,7 @@ About me:
 - 🔭 I’m currently working on Impel IT Solutions
 - 🌱 I’m currently learning GraphQL
 - 👯 I’m looking to collaborate on Python, PHP, C#
-- 🤔 I’m looking for help with Programming
+- 🤔 I’m looking for help with GraphQL
 - 💬 Ask me about anything
 - 📫 How to reach me: Email, Facebook
 
