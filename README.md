@@ -43,6 +43,6 @@ About me:
 
 <hr>
 
-<p align="center">
+<p>
   <img src="https://github.com/manjurulhoque/manjurulhoque/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
