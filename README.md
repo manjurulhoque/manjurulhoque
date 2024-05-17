@@ -31,8 +31,8 @@ About me:
 
 - 🔭 I’m currently working on Impel IT Solutions
 - 🌱 I’m currently learning GraphQL and Golang
-- 👯 I’m looking to collaborate on Python, PHP, C#
-- 🤔 I’m looking for help with GraphQL
+- 👯 I’m looking to collaborate on Python, Golang, PHP
+- 🤔 I’m looking for help with GraphQL, RxJS
 - 💬 Ask me about anything
 - 📫 How to reach me: Email, Facebook
 
