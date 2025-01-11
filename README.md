@@ -40,3 +40,6 @@ About me:
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=manjurulhoque&show_icons=true&theme=radical" alt="manjurulhoque"/>
 </a>
+<a href="">
+  <img align="center" src="https://leetcard.jacoblin.cool/manjurulhoque?theme=chartreuse&font=Noto%20Sans%20Old%20North%20Arabian" alt="manjurulhoque"/>
+</a>
