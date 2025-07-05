@@ -34,7 +34,7 @@ About me:
 - 👯 I’m looking to collaborate on Python, Golang, PHP
 - 🤔 I’m looking for help with GraphQL, RxJS
 - 💬 Ask me about anything
-- 📫 How to reach me: Email, Facebook
+- 📫 How to reach me: Email
 
 
 <div style="display: flex; gap: 10px">
